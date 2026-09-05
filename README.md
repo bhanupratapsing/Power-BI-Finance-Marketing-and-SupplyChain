@@ -21,12 +21,25 @@ An enterprise-grade, multi-functional business intelligence analytics tool devel
 
 The application features a centralized home navigation portal linking to five core business modules:
 
-1. **Finance View:** Profit & Loss statement tracking across customers, products, and countries over any custom time period.
-2. **Sales View:** Customer-level performance evaluated through Net Sales, Gross Margin, and profitability/growth matrices.
-3. **Marketing View:** Product-level performance analysis mapped against key commercial metrics and growth quadrants.
-4. **Supply Chain View:** Forecast accuracy, net error metrics, and risk profiles (Out-of-Stock / Excess Inventory tracking) categorized by product and customer segments.
-5. **Executive View:** High-level executive summary consolidating vital top-line metrics and cross-dimensional insights.
+1. **[Finance View](path/to/finance-page)** — Profit & Loss statement tracking across customers, products, and countries over any custom time period.
+   <br><br>
+   [![Finance View Preview]([images/finance-preview.png](https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/2%20Fianance%20View.jpg))](path/to/finance-page)
 
+2. **[Sales View](path/to/sales-page)** — Customer-level performance evaluated through Net Sales, Gross Margin, and profitability/growth matrices.
+   <br><br>
+   [![Sales View Preview](images/sales-preview.png)](path/to/sales-page)
+
+3. **[Marketing View](path/to/marketing-page)** — Product-level performance analysis mapped against key commercial metrics and growth quadrants.
+   <br><br>
+   [![Marketing View Preview](images/marketing-preview.png)](path/to/marketing-page)
+
+4. **[Supply Chain View](path/to/supply-chain-page)** — Forecast accuracy, net error metrics, and risk profiles (Out-of-Stock / Excess Inventory tracking) categorized by product and customer segments.
+   <br><br>
+   [![Supply Chain View Preview](images/supply-chain-preview.png)](path/to/supply-chain-page)
+
+5. **[Executive View](path/to/executive-page)** — High-level executive summary consolidating vital top-line metrics and cross-dimensional insights.
+   <br><br>
+   [![Executive View Preview](images/executive-preview.png)](path/to/executive-page)
 ---
 
 ## 📈 Key Project Metrics & Performance Summary
