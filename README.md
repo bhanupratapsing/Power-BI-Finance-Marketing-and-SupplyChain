@@ -27,13 +27,29 @@ The application features a centralized home navigation portal linking to five co
      <img src="https://raw.githubusercontent.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/main/2%20Fianance%20View.jpg" width="100%" alt="Finance View Preview">
    </a>
 
-2. **Sales View:** Customer-level performance evaluated through Net Sales, Gross Margin, and profitability/growth matrices.
+2. **[Sales View](https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/3%20Sales%20View.jpg)** — Customer-level performance evaluated through Net Sales, Gross Margin, and profitability/growth matrices.
+   <br><br>
+   <a href="https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/3%20Sales%20View.jpg">
+     <img src="https://raw.githubusercontent.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/main/3%20Sales%20View.jpg" width="100%" alt="Sales View Preview">
+   </a>
 
-3. **Marketing View:** Product-level performance analysis mapped against key commercial metrics and growth quadrants.
+3. **[Marketing View](https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/4%20Marketing%20View.jpg)** — Product-level performance analysis mapped against key commercial metrics and growth quadrants.
+   <br><br>
+   <a href="https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/4%20Marketing%20View.jpg">
+     <img src="https://raw.githubusercontent.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/main/4%20Marketing%20View.jpg" width="100%" alt="Marketing View Preview">
+   </a>
 
-4. **Supply Chain View:** Forecast accuracy, net error metrics, and risk profiles (Out-of-Stock / Excess Inventory tracking) categorized by product and customer segments.
+4. **[Supply Chain View](https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/5%20Supplychain%20View.jpg)** — Forecast accuracy, net error metrics, and risk profiles (Out-of-Stock / Excess Inventory tracking) categorized by product and customer segments.
+   <br><br>
+   <a href="https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/5%20Supplychain%20View.jpg">
+     <img src="https://raw.githubusercontent.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/main/5%20Supplychain%20View.jpg" width="100%" alt="Supply Chain View Preview">
+   </a>
 
-5. **Executive View:** High-level executive summary consolidating vital top-line metrics and cross-dimensional insights.
+5. **[Executive View](https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/6%20Executive%20View.jpg)** — High-level executive summary consolidating vital top-line metrics and cross-dimensional insights.
+   <br><br>
+   <a href="https://github.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/blob/main/6%20Executive%20View.jpg">
+     <img src="https://raw.githubusercontent.com/bhanupratapsing/Power-BI-Finance-Marketing-and-SupplyChain/main/6%20Executive%20View.jpg" width="100%" alt="Executive View Preview">
+   </a>
 ---
 
 ## 📈 Key Project Metrics & Performance Summary
